@@ -20,3 +20,13 @@ h3 {
 }
 
 /* Add a 'selected' class here to style selected astronaut names a different color. */
+.selected {
+    color: seagreen;
+}
+
+.notFull {
+    visibility: visible;
+}
+.full{
+    visibility: hidden;
+}
